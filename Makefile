@@ -11,3 +11,4 @@ $(OBJ): %.png : %.svg
 
 upload: $(OBJ)
 	scp *.svg *.png templates.json $(HOST):/usr/share/remarkable/templates/
+	ssh $(HOST) systemctl restart xochitl
