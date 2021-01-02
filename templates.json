@@ -686,7 +686,15 @@
     {
       "name": "Journal Jens",
       "filename": "dailyplanner_jens",
-      "iconCode": "\ue98c",
+      "iconCode": "\ue9fe",
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+     "name": "Journal Kristin",
+      "filename": "dailyplanner_kristin",
+      "iconCode": "\ue9fe",
       "categories": [
         "Life/organize"
       ]
