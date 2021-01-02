@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="280mm"
+   viewBox="0 0 210 279.99999"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="dailyplanner_jens1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/jens/workspace/private/remarkable_templates/dailyplanner_jens1.png"
+   inkscape:export-xdpi="169.84647"
+   inkscape:export-ydpi="169.84647">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6788"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6786" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4434" />
+    </marker>
+    <rect
+       x="84"
+       y="30"
+       width="12.711965"
+       height="53.388371"
+       id="rect1451" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect940" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="116.57748"
+       height="16.513409"
+       id="rect940-2" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect953" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="93.281601"
+       height="15.678356"
+       id="rect940-2-6" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="71.662064"
+       height="13.183474"
+       id="rect982" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect940-1" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect1048" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect940-16" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect1239" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect940-10" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect1268" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect940-3" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect1315" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect940-3-7" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="64.570518"
+       height="13.330051"
+       id="rect1382" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="116.57748"
+       height="16.513409"
+       id="rect940-2-2" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="116.57748"
+       height="16.513409"
+       id="rect1429" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="116.57748"
+       height="16.513409"
+       id="rect940-2-2-6" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="116.57748"
+       height="16.513409"
+       id="rect1464" />
+    <rect
+       x="84"
+       y="30"
+       width="12.711965"
+       height="53.388371"
+       id="rect1451-8" />
+    <rect
+       x="84"
+       y="30"
+       width="12.711965"
+       height="53.388371"
+       id="rect3631" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="93.281601"
+       height="15.678356"
+       id="rect940-2-6-5" />
+    <rect
+       x="6.6869535"
+       y="7.4978237"
+       width="93.281601"
+       height="15.678356"
+       id="rect4181" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="286.80534"
+     inkscape:cy="62.53717"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1397"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-page="false"
+     inkscape:snap-text-baseline="true"
+     objecttolerance="20"
+     guidetolerance="10000"
+     gridtolerance="10"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     viewbox-width="210"
+     units="mm"
+     fit-margin-left="0"
+     scale-x="1"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836"
+       units="mm"
+       spacingx="3.5"
+       spacingy="3"
+       originx="105"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Backgrounds"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;fill-opacity:0.0858441;stroke:#000000;stroke-width:0.454149;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect841"
+       width="216.77252"
+       height="74.999191"
+       x="-3.2729259"
+       y="66.000404" />
+    <rect
+       style="fill:#000000;fill-opacity:0.0858441;stroke:#000000;stroke-width:0.397121;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect843"
+       width="216.20747"
+       height="71.801804"
+       x="-3.5"
+       y="210" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.426256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect841-9"
+       width="216.9996"
+       height="66.000404"
+       x="-3.5"
+       y="-7.0462155e-15" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.435836;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect841-9-6"
+       width="217"
+       height="69.000008"
+       x="-3.5"
+       y="141" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Watermarks"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:50.2379px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.068668;stroke-width:1.256;stroke-miterlimit:4;stroke-dasharray:none"
+       x="24.318233"
+       y="257.59155"
+       id="text3430-6"><tspan
+         sodipodi:role="line"
+         id="tspan3428-4"
+         x="24.318233"
+         y="257.59155"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';fill:#000000;fill-opacity:0.068668;stroke-width:1.256;stroke-miterlimit:4;stroke-dasharray:none">Evening</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.238px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.068668;stroke-width:1.256;stroke-miterlimit:4;stroke-dasharray:none"
+       x="14.161456"
+       y="115.27643"
+       id="text3430-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan3428-4-5"
+         x="14.161456"
+         y="115.27643"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';fill:#000000;fill-opacity:0.068668;stroke-width:1.256;stroke-miterlimit:4;stroke-dasharray:none">Morning</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ebene 3"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:PowerlineSymbols;-inkscape-font-specification:PowerlineSymbols;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="40.845406"
+       y="36.09631"
+       id="text936"><tspan
+         sodipodi:role="line"
+         id="tspan934"
+         x="40.845406"
+         y="36.09631"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       id="text938"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940);"
+       transform="matrix(0.89600468,0,0,0.91650251,7.8705424,-3.6066567)"><tspan
+         x="6.6875"
+         y="15.243575"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, '">Date</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text938-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4554px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2);"
+       transform="matrix(0.61591704,0,0,0.61591704,-1.2297586,12.567021)"><tspan
+         x="6.6875"
+         y="16.75401"><tspan
+           style="font-size:11.4554px">Today's message to me</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text938-1-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6138px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-6);"
+       transform="matrix(0.66475176,0,0,0.66475176,-1.5580916,41.988511)"><tspan
+         x="6.6875"
+         y="16.073997"><tspan
+           style="font-size:10.6138px">Person to connect to</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text938-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-3);"
+       transform="matrix(0.89600468,0,0,0.91650251,137.45117,-3.5144075)"><tspan
+         x="6.6875"
+         y="15.243575"><tspan
+           style="font-size:9.58605px">Mood</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,15 H 210"
+       id="path1335" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70,66 v 75"
+       id="path1352"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 140,66 v 75"
+       id="path1352-9"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       id="text938-2-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-3-7);"
+       transform="matrix(0.89600468,0,0,0.91650251,67.233116,-3.5319788)"><tspan
+         x="6.6875"
+         y="15.243575"><tspan
+           style="font-size:9.58605px">Goal</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,44.999999 70,45"
+       id="path1418"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       id="text938-1-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-2);"
+       transform="matrix(0.62244957,0,0,0.62244957,69.22538,12.509398)"><tspan
+         x="6.6875"
+         y="16.049353"><tspan>Top 3 priorities</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1449"
+       style="font-size:10.5833px;line-height:1.3;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1451);"
+       transform="matrix(0.84715228,0,0,0.84715228,5.5702385,1.3573521)"><tspan
+         x="84"
+         y="39.641905"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, '">1.
+</tspan></tspan><tspan
+         x="84"
+         y="54.22621"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, '">2.
+</tspan></tspan><tspan
+         x="84"
+         y="68.810514"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, '">3.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text938-1-0-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-2-6);"
+       transform="matrix(0.62244957,0,0,0.62244957,139.25832,12.509398)"><tspan
+         x="6.6875"
+         y="16.049353"><tspan>Most important TODOs</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="7.3352861"
+       y="71.891365"
+       id="text1486"><tspan
+         sodipodi:role="line"
+         id="tspan1484"
+         x="7.3352861"
+         y="71.891365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What exites me?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="73.478836"
+       y="71.891365"
+       id="text1486-3"><tspan
+         sodipodi:role="line"
+         id="tspan1484-3"
+         x="73.478836"
+         y="71.891365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What am I grateful for?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="73.478836"
+       y="86.891365"
+       id="text1486-6"><tspan
+         sodipodi:role="line"
+         id="tspan1484-9"
+         x="73.478836"
+         y="86.891365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What are my long term goals?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="73.478836"
+       y="101.89137"
+       id="text1486-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan1484-9-4"
+         x="73.478836"
+         y="101.89137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What are my short term goals?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="73.478836"
+       y="131.89136"
+       id="text1486-6-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan1484-9-4-5"
+         x="73.478836"
+         y="131.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What are today's constraints?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="73.478836"
+       y="116.89137"
+       id="text1486-6-0-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan1484-9-4-5-2"
+         x="73.478836"
+         y="116.89137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What are my core principles?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="8.3004789"
+       y="80.891365"
+       id="text1486-9"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7"
+         x="8.3004789"
+         y="80.891365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">Who needs me?</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.0000004e-7,74.999997 H 70"
+       id="path1598" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.000001,80.999999 H 140"
+       id="path1598-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.000001,95.999999 H 140"
+       id="path1598-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.000001,111 H 140"
+       id="path1598-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.000001,126 H 140"
+       id="path1598-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.0000004e-7,83.999999 H 70.000001"
+       id="path1598-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.0000004e-7,92.999999 H 70.000001"
+       id="path1598-31" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.0000004e-7,102 H 70.000001"
+       id="path1598-87" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.0000004e-7,111 H 70.000001"
+       id="path1598-4" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="2.8056896"
+       y="89.891365"
+       id="text1486-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8"
+         x="2.8056896"
+         y="89.891365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">Today in one word:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="6.2515836"
+       y="98.891373"
+       id="text1486-9-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5"
+         x="6.2515836"
+         y="98.891373"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">You in one word:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="143.47884"
+       y="71.891365"
+       id="text1486-9-3-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5-1"
+         x="143.47884"
+         y="71.891365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What does <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman,  Bold'"
+   id="tspan1732">not</tspan> matter?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="4.2111325"
+       y="107.89137"
+       id="text1486-9-3-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5-6"
+         x="4.2111325"
+         y="107.89137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">Advice for myself:</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.0000004e-7,126 H 70.000001"
+       id="path1598-6-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="3.7962277"
+       y="116.89137"
+       id="text1486-9-3-5-0-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5-1-2-6"
+         x="3.7962277"
+         y="116.89137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What trips me up?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="5.3879652"
+       y="122.95343"
+       id="text1486-9-3-5-0-6-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5-1-2-6-1"
+         x="5.3879652"
+         y="122.95343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What counters it?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="143.47884"
+       y="86.891365"
+       id="text1486-9-3-5-0-6-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5-1-2-6-3"
+         x="143.47884"
+         y="86.891365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What is the current big project?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="143.47884"
+       y="101.89137"
+       id="text1486-9-3-5-0-6-2-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5-1-2-6-1-5"
+         x="143.47884"
+         y="101.89137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What indicates success for today?</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 140,111 h 70"
+       id="path1598-0-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
+       x="143.47884"
+       y="116.89137"
+       id="text1486-6-0-8-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan1484-9-4-5-2-9"
+         x="143.47884"
+         y="116.89137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">Visualise my day</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 140,95.999999 h 70"
+       id="path1598-8-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 140,80.999999 h 70"
+       id="path1598-8-46" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,144 H 210"
+       id="path1922-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.065, 0.13;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 17.5,150 v 69"
+       id="path2328"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.13;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 87.5,144 v 63"
+       id="path2328-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.13;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 157.5,144 v 63"
+       id="path2328-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,153 H 210"
+       id="path1922-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,162 H 210"
+       id="path1922-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,171 H 210"
+       id="path1922-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,180 H 210"
+       id="path1922-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,189 H 210"
+       id="path1922-79"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,198 H 210"
+       id="path1922-00"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,207 H 210"
+       id="path1922-2-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.5,148.6269 70,148.6421"
+       id="path1922-0-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5,148.667 52.50001,0.0152"
+       id="path1922-0-2-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.5,148.5868 52.50001,0.0152"
+       id="path1922-0-2-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 17.5,157.71872 52.500011,0.0152"
+       id="path1922-0-2-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5,157.75882 52.50002,0.0152"
+       id="path1922-0-2-7-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.5,157.67862 52.50002,0.0152"
+       id="path1922-0-2-0-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 17.5,166.53829 52.500011,0.0152"
+       id="path1922-0-2-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5,166.57839 52.50002,0.0152"
+       id="path1922-0-2-7-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.5,166.49819 52.50002,0.0152"
+       id="path1922-0-2-0-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 17.5,175.63011 52.500019,0.0152"
+       id="path1922-0-2-6-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5,175.67021 52.50003,0.0152"
+       id="path1922-0-2-7-0-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.5,175.59001 52.50003,0.0152"
+       id="path1922-0-2-0-4-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 17.5,184.58256 52.500011,0.0152"
+       id="path1922-0-2-09"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5,184.62266 52.50002,0.0152"
+       id="path1922-0-2-7-35"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.5,184.54246 52.50001,0.0152"
+       id="path1922-0-2-0-43"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 17.5,193.67438 52.500019,0.0152"
+       id="path1922-0-2-6-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5,193.71448 52.50003,0.0152"
+       id="path1922-0-2-7-0-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.5,193.63428 52.50002,0.0152"
+       id="path1922-0-2-0-4-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 17.5,202.4997 52.500006,0.0152"
+       id="path1922-0-2-6-6-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5,202.5398 52.50001,0.0152"
+       id="path1922-0-2-7-0-4-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.0649999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.5,202.4596 52.5,0.0152"
+       id="path1922-0-2-0-4-3-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="3.3270798"
+       y="149.9075"
+       id="text2164"><tspan
+         sodipodi:role="line"
+         id="tspan2162"
+         x="3.3270798"
+         y="149.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">05:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="3.3270798"
+       y="158.9075"
+       id="text2164-0"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9"
+         x="3.3270798"
+         y="158.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">06:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="3.3270798"
+       y="167.9075"
+       id="text2164-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-5"
+         x="3.3270798"
+         y="167.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">07:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="3.3270798"
+       y="176.9075"
+       id="text2164-0-6"><tspan
+         sodipodi:role="line"
+         x="3.3270798"
+         y="176.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536"
+         id="tspan2238">08:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="3.3270798"
+       y="185.9075"
+       id="text2164-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-9"
+         x="3.3270798"
+         y="185.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">09:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="3.0898132"
+       y="194.9075"
+       id="text2164-0-1"><tspan
+         sodipodi:role="line"
+         x="3.0898132"
+         y="194.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536"
+         id="tspan2234">10:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="3.0898132"
+       y="203.9075"
+       id="text2164-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-4"
+         x="3.0898132"
+         y="203.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">11:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="73.32708"
+       y="149.9075"
+       id="text2164-1"><tspan
+         sodipodi:role="line"
+         id="tspan2162-1"
+         x="73.32708"
+         y="149.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">12:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="73.32708"
+       y="158.9075"
+       id="text2164-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-1"
+         x="73.32708"
+         y="158.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">13:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="73.32708"
+       y="167.9075"
+       id="text2164-0-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-5-8"
+         x="73.32708"
+         y="167.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">14:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="73.32708"
+       y="176.9075"
+       id="text2164-0-6-7"><tspan
+         sodipodi:role="line"
+         x="73.32708"
+         y="176.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536"
+         id="tspan2238-4">15:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="73.32708"
+       y="185.9075"
+       id="text2164-0-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-9-3"
+         x="73.32708"
+         y="185.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">16:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="73.089813"
+       y="194.9075"
+       id="text2164-0-1-1"><tspan
+         sodipodi:role="line"
+         x="73.089813"
+         y="194.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536"
+         id="tspan2234-3">17:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="73.089813"
+       y="203.9075"
+       id="text2164-0-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-4-7"
+         x="73.089813"
+         y="203.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">18:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="143.32707"
+       y="149.9075"
+       id="text2164-9"><tspan
+         sodipodi:role="line"
+         id="tspan2162-3"
+         x="143.32707"
+         y="149.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">19:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="143.32707"
+       y="158.9075"
+       id="text2164-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-8"
+         x="143.32707"
+         y="158.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">20:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="143.32707"
+       y="167.9075"
+       id="text2164-0-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-5-0"
+         x="143.32707"
+         y="167.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">21:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="143.32707"
+       y="176.9075"
+       id="text2164-0-6-0"><tspan
+         sodipodi:role="line"
+         x="143.32707"
+         y="176.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536"
+         id="tspan2238-8">22:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="143.32707"
+       y="185.9075"
+       id="text2164-0-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-9-8"
+         x="143.32707"
+         y="185.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">23:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="143.0898"
+       y="194.9075"
+       id="text2164-0-1-2"><tspan
+         sodipodi:role="line"
+         x="143.0898"
+         y="194.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536"
+         id="tspan2234-38">24:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.02143px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.100536"
+       x="143.0898"
+       y="203.9075"
+       id="text2164-0-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan2162-9-4-0"
+         x="143.0898"
+         y="203.9075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.100536">01:00</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.13;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 17.5,144 v 63"
+       id="path2328-8" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.13;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 70,144 v 63"
+       id="path2328-3-3" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0649999, 0.13;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 140,144 v 63"
+       id="path2328-72-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.56, 0.56;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 27.965,126 v 15"
+       id="path3408" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="14.183408"
+       y="131.89136"
+       id="text1486-9-3-5-0-6-2-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan1484-7-8-5-1-2-6-1-9"
+         x="14.183408"
+         y="131.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189">What would</tspan><tspan
+         sodipodi:role="line"
+         x="14.183408"
+         y="137.51343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan3370">they do?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
+       x="39.658955"
+       y="128.58792"
+       id="text1486-9-3-5-0-6-2-9-4-6"
+       transform="scale(0.97451297,1.0261536)"><tspan
+         sodipodi:role="line"
+         x="39.658955"
+         y="128.58792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
+         id="tspan3395">Dennett:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
+       x="39.730625"
+       y="134.435"
+       id="text1486-9-3-5-0-6-2-9-4-6-2"
+       transform="scale(0.97451297,1.0261536)"><tspan
+         sodipodi:role="line"
+         x="39.730625"
+         y="134.435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
+         id="tspan3395-6">Penrose:</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 140,0 V 66"
+       id="path1352-9-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70,0 V 66"
+       id="path1352-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       id="text1449-7"
+       style="font-size:10.5833px;line-height:1.3;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1451-8);display:inline;"
+       transform="matrix(0.84715228,0,0,0.84715228,75.696038,1.2583217)"><tspan
+         x="84"
+         y="40.900798"><tspan
+           style="shape-inside:url(#rect1451-8);display:inline">￮
+</tspan></tspan><tspan
+         x="84"
+         y="55.91798"><tspan
+           style="shape-inside:url(#rect1451-8);display:inline">￮
+</tspan></tspan><tspan
+         x="84"
+         y="70.935161"><tspan
+           style="shape-inside:url(#rect1451-8);display:inline">￮</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="12.271341"
+       y="215.89136"
+       id="text1486-1"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72"
+         x="12.271341"
+         y="215.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I appreciated:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="57.754417"
+       y="261.98425"
+       id="text1486-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2"
+         x="57.754417"
+         y="261.98425"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="14.518579"
+       y="269.89136"
+       id="text1486-1-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-6"
+         x="14.518578"
+         y="269.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189">What would </tspan><tspan
+         sodipodi:role="line"
+         x="14.518579"
+         y="275.51343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4019">they say?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="80.430145"
+       y="269.89136"
+       id="text1486-1-7-2-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-6-0-1"
+         x="80.430145"
+         y="269.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189">What </tspan><tspan
+         sodipodi:role="line"
+         x="80.430145"
+         y="275.51343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081">should I?</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,219 H 70"
+       id="path1598-6-5-4" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70,210 v 72"
+       id="path1352-90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,228 H 70"
+       id="path1598-6-5-4-9" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -1.0000438e-7,237 H 70"
+       id="path1598-6-5-4-9-1" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="6.6960812"
+       y="224.89136"
+       id="text1486-1-7-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-9-7"
+         x="6.6960812"
+         y="224.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I felt good when:</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -5.0004354e-8,246 H 70"
+       id="path1598-6-5-4-9-1-1" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="16.94916"
+       y="242.89136"
+       id="text1486-1-7-5-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-9-7-5"
+         x="16.94916"
+         y="242.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I accepted:</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 2.5000498e-7,255 H 70"
+       id="path1598-6-5-4-9-1-1-9" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="15.103449"
+       y="251.89136"
+       id="text1486-1-7-5-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-9-7-7"
+         x="15.103449"
+         y="251.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I fought for:</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 140,210.2611 V 282"
+       id="path1352-9-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70,225 h 70"
+       id="path1598-6-5-4-7" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -1.0000438e-7,263.915 H 70"
+       id="path1598-6-5-4-9-1-1-9-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="11.183384"
+       y="260.95343"
+       id="text1486-1-7-5-7-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-9-7-7-5"
+         x="11.183384"
+         y="260.95343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I realised that:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="15.89506"
+       y="233.08136"
+       id="text1486-1-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-9"
+         x="15.89506"
+         y="233.08136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I improved:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="73.478836"
+       y="245.89136"
+       id="text1486-1-7-2-1-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-6-0-1-3"
+         x="73.478836"
+         y="245.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What ideas occurred to me today?</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.560001, 0.560001;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 27.913413,263.99999 28,282"
+       id="path3408-9"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
+       x="39.658955"
+       y="263.07071"
+       id="text1486-9-3-5-0-6-2-9-4-6-4"
+       transform="scale(0.97451297,1.0261536)"><tspan
+         sodipodi:role="line"
+         x="39.658955"
+         y="263.07071"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
+         id="tspan3395-8">Dennett:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
+       x="39.730625"
+       y="268.91779"
+       id="text1486-9-3-5-0-6-2-9-4-6-2-1"
+       transform="scale(0.97451297,1.0261536)"><tspan
+         sodipodi:role="line"
+         x="39.730625"
+         y="268.91779"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
+         id="tspan3395-6-2">Penrose:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="73.478836"
+       y="215.89136"
+       id="text1486-1-7-2-1-6-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-6-0-1-3-3"
+         x="73.478836"
+         y="215.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What did I learn today?</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70,240 h 70"
+       id="path1598-6-5-4-7-9" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.560001, 0.560001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 91,264 v 15"
+       id="path3408-9-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="98.523766"
+       y="269.86172"
+       id="text1486-1-7-2-1-6-8"><tspan
+         sodipodi:role="line"
+         x="98.523766"
+         y="269.86172"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5">Start:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="98.731194"
+       y="275.78271"
+       id="text1486-1-7-2-1-6-8-0"><tspan
+         sodipodi:role="line"
+         x="98.731194"
+         y="275.78271"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-9">Stop:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
+       x="73.478836"
+       y="230.89136"
+       id="text1486-1-7-2-1-6-6-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan1484-72-2-6-0-1-3-3-3"
+         x="73.478836"
+         y="230.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What moved me the most today?</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70,263.915 h 70"
+       id="path1598-6-5-4-7-9-8" />
+    <text
+       xml:space="preserve"
+       id="text938-1-8-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6138px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-6-5);display:inline;"
+       transform="matrix(0.66475176,0,0,0.66475176,142.44158,265.29431)"><tspan
+         x="6.6875"
+         y="16.073997"><tspan>Daily score:       / 30</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.852495;stroke:#ffffff;stroke-width:0.153;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.881552;stop-color:#000000"
+       id="rect4202"
+       width="27.971581"
+       height="14.996596"
+       x="145.1618"
+       y="213.00169" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.852495;stroke:#ffffff;stroke-width:0.153;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.881552;stop-color:#000000"
+       id="rect4202-1"
+       width="27.946585"
+       height="14.996577"
+       x="176.68681"
+       y="213.00342" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.852495;stroke:#ffffff;stroke-width:0.153;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.881552;stop-color:#000000"
+       id="rect4202-1-1"
+       width="27.946638"
+       height="14.996632"
+       x="176.68678"
+       y="232.50166" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.852495;stroke:#ffffff;stroke-width:0.153;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.881552;stop-color:#000000"
+       id="rect4202-1-5"
+       width="28.021549"
+       height="14.996561"
+       x="145.11183"
+       y="232.50171" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.852495;stroke:#ffffff;stroke-width:0.153;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.881552;stop-color:#000000"
+       id="rect4202-1-1-9"
+       width="28.09647"
+       height="14.996489"
+       x="176.61186"
+       y="251.97675" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.852495;stroke:#ffffff;stroke-width:0.153;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.881552;stop-color:#000000"
+       id="rect4202-1-5-8"
+       width="27.971609"
+       height="14.996608"
+       x="145.16179"
+       y="252.00168" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="159.16565"
+       y="218.89136"
+       id="text1486-1-7-2-1-6-8-4"><tspan
+         sodipodi:role="line"
+         x="159.16565"
+         y="218.89136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8">Intentionality</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="164.65028"
+       y="224.94072"
+       id="text1486-1-7-2-1-6-8-4-1"><tspan
+         sodipodi:role="line"
+         x="164.65028"
+         y="224.94072"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-0">/ 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="190.79865"
+       y="218.89134"
+       id="text1486-1-7-2-1-6-8-4-3"><tspan
+         sodipodi:role="line"
+         x="190.79865"
+         y="218.89134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-04">Productivity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="196.15028"
+       y="224.94073"
+       id="text1486-1-7-2-1-6-8-4-1-4"><tspan
+         sodipodi:role="line"
+         x="196.15028"
+         y="224.94073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-0-4">/ 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="196.15028"
+       y="244.42664"
+       id="text1486-1-7-2-1-6-8-4-1-47"><tspan
+         sodipodi:role="line"
+         x="196.15028"
+         y="244.42664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-0-6">/ 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="164.65028"
+       y="244.42662"
+       id="text1486-1-7-2-1-6-8-4-1-3"><tspan
+         sodipodi:role="line"
+         x="164.65028"
+         y="244.42662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-0-1">/ 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="164.65028"
+       y="263.94073"
+       id="text1486-1-7-2-1-6-8-4-1-7"><tspan
+         sodipodi:role="line"
+         x="164.65028"
+         y="263.94073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-0-5">/ 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="196.15028"
+       y="263.91254"
+       id="text1486-1-7-2-1-6-8-4-1-9"><tspan
+         sodipodi:role="line"
+         x="196.15028"
+         y="263.91254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-0-62">/ 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="159.21722"
+       y="237.93979"
+       id="text1486-1-7-2-1-6-8-4-17"><tspan
+         sodipodi:role="line"
+         x="159.21722"
+         y="237.93979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-8">Discipline</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="190.77856"
+       y="237.98634"
+       id="text1486-1-7-2-1-6-8-4-17-5"><tspan
+         sodipodi:role="line"
+         x="190.77856"
+         y="237.98634"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-8-7">Interactions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="190.83607"
+       y="257.80243"
+       id="text1486-1-7-2-1-6-8-4-17-5-4"><tspan
+         sodipodi:role="line"
+         x="190.83607"
+         y="257.80243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-8-7-1">Honesty</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
+       x="159.27718"
+       y="257.89813"
+       id="text1486-1-7-2-1-6-8-4-17-5-4-8"><tspan
+         sodipodi:role="line"
+         x="159.27718"
+         y="257.89813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
+         id="tspan4081-5-8-8-7-1-5">Happiness</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2"
+     style="display:none" />
+</svg>
