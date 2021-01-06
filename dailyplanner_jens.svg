@@ -195,15 +195,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="318.9774"
-     inkscape:cy="836.80771"
+     inkscape:cx="318.45543"
+     inkscape:cy="869.46754"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1397"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -888,10 +888,6 @@
        style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
        d="M -6.2500458e-8,107.24279 H 70"
        id="path1598-87" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="M -3.1250492e-8,117 H 70"
-       id="path1598-4" />
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
@@ -927,42 +923,31 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What does <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman,  Bold'"
    id="tspan1732">not</tspan> matter?</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
-       x="4.211132"
-       y="113.42329"
-       id="text1486-9-3-5-2"><tspan
-         sodipodi:role="line"
-         id="tspan1484-7-8-5-6"
-         x="4.211132"
-         y="113.42329"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">Advice for myself:</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 5.0000002e-7,132 H 70.000001"
+       d="M 5.0000002e-7,129.085 H 70.000001"
        id="path1598-6-5" />
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
        x="3.7962277"
-       y="122.89137"
+       y="113.89137"
        id="text1486-9-3-5-0-6-2"><tspan
          sodipodi:role="line"
          id="tspan1484-7-8-5-1-2-6"
          x="3.7962277"
-         y="122.89137"
+         y="113.89137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What trips me up?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
        x="5.3879652"
-       y="128.89136"
+       y="121.4224"
        id="text1486-9-3-5-0-6-2-9"><tspan
          sodipodi:role="line"
          id="tspan1484-7-8-5-1-2-6-1"
          x="5.3879652"
-         y="128.89136"
+         y="121.4224"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What counters it?</tspan></text>
     <text
        xml:space="preserve"
@@ -1011,47 +996,47 @@
        id="path1598-8-46" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.56, 0.56;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 24.5,132.0003 v 14.90918"
+       d="m 26.238993,129.01447 0,17.89501"
        id="path3408"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
-       x="10.333518"
-       y="138"
+       x="14.148407"
+       y="136.17322"
        id="text1486-9-3-5-0-6-2-9-4"><tspan
          sodipodi:role="line"
          id="tspan1484-7-8-5-1-2-6-1-9"
-         x="10.333518"
-         y="138"
+         x="14.148407"
+         y="136.17322"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189">What would</tspan><tspan
          sodipodi:role="line"
-         x="10.333518"
-         y="143.62207"
+         x="14.148407"
+         y="141.79529"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
          id="tspan3370">they do?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
        x="36.067417"
-       y="134.43501"
+       y="132.30142"
        id="text1486-9-3-5-0-6-2-9-4-6"
        transform="scale(0.97451297,1.0261536)"><tspan
          sodipodi:role="line"
          x="36.067417"
-         y="134.43501"
+         y="132.30142"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
          id="tspan3395">Dennett:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
        x="36.139088"
-       y="140.32986"
+       y="138.82033"
        id="text1486-9-3-5-0-6-2-9-4-6-2"
        transform="scale(0.97451297,1.0261536)"><tspan
          sodipodi:role="line"
          x="36.139088"
-         y="140.32986"
+         y="138.82033"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
          id="tspan3395-6">Penrose:</tspan></text>
     <path
@@ -1105,33 +1090,33 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
-       x="11.018579"
-       y="272.89136"
+       x="14.000001"
+       y="268.88718"
        id="text1486-1-7-2"><tspan
          sodipodi:role="line"
          id="tspan1484-72-2-6"
-         x="11.018578"
-         y="272.89136"
+         x="14"
+         y="268.88718"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189">What would </tspan><tspan
          sodipodi:role="line"
-         x="11.018579"
-         y="278.51343"
+         x="14.000001"
+         y="274.50925"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
          id="tspan4019">they say?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
-       x="80.455544"
-       y="272.89136"
+       x="81.103035"
+       y="268.88718"
        id="text1486-1-7-2-1-6"><tspan
          sodipodi:role="line"
          id="tspan1484-72-2-6-0-1"
-         x="80.455544"
-         y="272.89136"
+         x="81.103035"
+         y="268.88718"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189">What </tspan><tspan
          sodipodi:role="line"
-         x="80.455544"
-         y="278.51343"
+         x="81.103035"
+         y="274.50925"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
          id="tspan4081">should I?</tspan></text>
     <path
@@ -1154,14 +1139,14 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
-       x="6.6960812"
-       y="222.5676"
+       x="15.103449"
+       y="242.07713"
        id="text1486-1-7-5-7"><tspan
          sodipodi:role="line"
          id="tspan1484-72-2-9-7"
-         x="6.6960812"
-         y="222.5676"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I felt good when:</tspan></text>
+         x="15.103449"
+         y="242.07713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I fought for:</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
        d="M -5.0004354e-8,246.63948 H 70"
@@ -1170,28 +1155,13 @@
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
        x="16.94916"
-       y="242.39946"
+       y="222.56972"
        id="text1486-1-7-5-7-1"><tspan
          sodipodi:role="line"
          id="tspan1484-72-2-9-7-5"
          x="16.94916"
-         y="242.39946"
+         y="222.56972"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I accepted:</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.5000498e-7,257.06307 H 70"
-       id="path1598-6-5-4-9-1-1-9" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
-       x="15.103449"
-       y="252.65094"
-       id="text1486-1-7-5-7-7"><tspan
-         sodipodi:role="line"
-         id="tspan1484-72-2-9-7-7"
-         x="15.103449"
-         y="252.65094"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I fought for:</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
        d="M 140,206.95203 140,282"
@@ -1199,23 +1169,12 @@
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 70,221.915 h 70"
+       d="m 70,225.085 h 70"
        id="path1598-6-5-4-7" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="M -1.0000439e-7,267 H 70"
+       d="M -1.0000444e-7,261 H 70"
        id="path1598-6-5-4-9-1-1-9-3" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
-       x="11.183384"
-       y="263.5127"
-       id="text1486-1-7-5-7-7-6"><tspan
-         sodipodi:role="line"
-         id="tspan1484-72-2-9-7-7-5"
-         x="11.183384"
-         y="263.5127"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">I realised that:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
@@ -1231,40 +1190,40 @@
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
        x="73.5"
-       y="242.39734"
+       y="248.89136"
        id="text1486-1-7-2-1-6-6"><tspan
          sodipodi:role="line"
          id="tspan1484-72-2-6-0-1-3"
          x="73.5"
-         y="242.39734"
+         y="248.89136"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What ideas occurred to me today?</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.560001, 0.560001;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 24.499742,267.00299 5.31e-4,14.81296"
+       d="m 26.415484,261.255 5.31e-4,20.47742"
        id="path3408-9"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
-       x="35.915375"
-       y="266.04205"
+       x="36.067417"
+       y="260.88232"
        id="text1486-9-3-5-0-6-2-9-4-6-4"
        transform="scale(0.97451297,1.0261536)"><tspan
          sodipodi:role="line"
-         x="35.915375"
-         y="266.04205"
+         x="36.067417"
+         y="260.88232"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
          id="tspan3395-8">Dennett:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.34406px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.196189"
-       x="35.987045"
-       y="271.88913"
+       x="36.067417"
+       y="268.96558"
        id="text1486-9-3-5-0-6-2-9-4-6-2-1"
        transform="scale(0.97451297,1.0261536)"><tspan
          sodipodi:role="line"
-         x="35.987045"
-         y="271.88913"
+         x="36.067417"
+         y="268.96558"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
          id="tspan3395-6-2">Penrose:</tspan></text>
     <text
@@ -1280,49 +1239,49 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What did I learn today?</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 70,235.98653 h 70"
+       d="m 70,243.085 h 70"
        id="path1598-6-5-4-7-9" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.560001, 0.560001;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 91,266.83 v 15"
+       d="m 91,261.00538 0,20.70823"
        id="path3408-9-0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
-       x="98.523766"
-       y="272.86172"
+       x="98.938629"
+       y="267.65561"
        id="text1486-1-7-2-1-6-8"><tspan
          sodipodi:role="line"
-         x="98.523766"
-         y="272.86172"
+         x="98.938629"
+         y="267.65561"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
          id="tspan4081-5">Start:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.191189"
        x="98.731194"
-       y="278.86172"
+       y="275.91074"
        id="text1486-1-7-2-1-6-8-0"><tspan
          sodipodi:role="line"
          x="98.731194"
-         y="278.86172"
+         y="275.91074"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
          id="tspan4081-5-9">Stop:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
-       x="73.478836"
-       y="257.89136"
+       x="3.4788334"
+       y="251.89136"
        id="text1486-1-7-2-1-6-6-9-6"><tspan
          sodipodi:role="line"
          id="tspan1484-72-2-6-0-1-3-3-3"
-         x="73.478836"
-         y="257.89136"
+         x="3.4788334"
+         y="251.89136"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What moved me the most today?</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 70,266.915 h 70"
+       d="m 70,261 h 70"
        id="path1598-6-5-4-7-9-8" />
     <text
        xml:space="preserve"
@@ -1505,20 +1464,16 @@
          y="257.89813"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.191189"
          id="tspan4081-5-8-8-7-1-5">Happiness</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 70,251.915 h 70"
-       id="path1598-6-5-4-7-9-8-3" />
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
        x="73.478836"
-       y="227.89136"
+       y="230.89136"
        id="text1486-1-7-2-1-6-6-6"><tspan
          sodipodi:role="line"
          id="tspan1484-72-2-6-0-1-3-7"
          x="73.478836"
-         y="227.89136"
+         y="230.89136"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.191189">What did I unlearn today?</tspan></text>
   </g>
 </svg>
