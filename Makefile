@@ -1,6 +1,7 @@
 
 CONVERT := inkscape -w 1404 -h 1872
 OBJ := dailyplanner_jens.png dailyplanner_kristin.png
+HOST = root@10.11.99.1
 
 .PHONY: upload
 

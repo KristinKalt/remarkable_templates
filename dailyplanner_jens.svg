@@ -6,7 +6,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="dailyplanner_jens.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="/home/jens/workspace/private/remarkable_templates/dailyplanner_jens1.png"
    inkscape:export-xdpi="169.81714"
    inkscape:export-ydpi="169.81714"
@@ -205,9 +205,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="296.25"
-     inkscape:cy="302.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="349.6643"
+     inkscape:cy="600.33366"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -238,7 +238,9 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-nodes="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid836"
@@ -706,19 +708,19 @@
     <text
        xml:space="preserve"
        id="text938"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940);display:inline"
        transform="matrix(0.89600468,0,0,0.91650251,8.0079687,-3.6066567)"><tspan
          x="6.6875"
          y="16.20218"
-         id="tspan3975">Date</tspan></text>
+         id="tspan2623">Date</tspan></text>
     <text
        xml:space="preserve"
        id="text938-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4554px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4554px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2);display:inline"
        transform="matrix(0.61591704,0,0,0.61591704,-1.2711066,11.615783)"><tspan
          x="6.6875"
          y="17.89955"
-         id="tspan3977">Today's message to me</tspan></text>
+         id="tspan2625">Today's message to me</tspan></text>
     <text
        xml:space="preserve"
        id="text938-1-3"
@@ -726,23 +728,23 @@
        transform="matrix(0.61591704,0,0,0.61591704,10.881085,58.507391)"><tspan
          x="6.6875"
          y="14.779081"
-         id="tspan3979">Person to connect to</tspan></text>
+         id="tspan2627">Person to connect to</tspan></text>
     <text
        xml:space="preserve"
        id="text938-1-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.42967px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-6)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.42967px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-6);display:inline"
        transform="matrix(0.66475176,0,0,0.66475176,80.554522,58.141228)"><tspan
          x="6.6875"
          y="14.244187"
-         id="tspan3981">My core principles</tspan></text>
+         id="tspan2629">My core principles</tspan></text>
     <text
        xml:space="preserve"
        id="text938-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-3)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.58605px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-3);display:inline"
        transform="matrix(0.89600468,0,0,0.91650251,67.451168,-3.5144075)"><tspan
          x="6.6875"
          y="16.20218"
-         id="tspan3983">Mood</tspan></text>
+         id="tspan2631">Mood</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.51, 0.51;stroke-dashoffset:0;stroke-opacity:1"
        d="M 0.1374263,15 H 210.13743"
@@ -750,50 +752,50 @@
     <text
        xml:space="preserve"
        id="text938-2-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78591px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-3-7)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78591px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0.211457px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-3-7);display:inline"
        transform="matrix(0.89600468,0,0,0.91650251,80.623107,9.3077841)"><tspan
          x="6.6875"
          y="14.567653"
-         id="tspan3985">Today's goal</tspan></text>
+         id="tspan2633">Today's goal</tspan></text>
     <text
        xml:space="preserve"
        id="text938-1-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9422px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-2)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9422px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-2);display:inline"
        transform="matrix(0.62244957,0,0,0.62244957,144.16033,-1.5553936)"><tspan
          x="6.6875"
          y="20.157564"
-         id="tspan3987">Top 3 priorities</tspan></text>
+         id="tspan2635">Top 3 priorities</tspan></text>
     <text
        xml:space="preserve"
        id="text1449"
-       style="font-size:8.32856px;line-height:1.9;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1451)"
+       style="font-size:8.32856px;line-height:1.9;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1451);display:inline"
        transform="matrix(0.84715228,0,0,0.84715228,73.330964,-8.9981726)"><tspan
          x="84"
          y="40.269114"
-         id="tspan3991"><tspan
+         id="tspan2639"><tspan
            style="font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, '"
-           id="tspan3989">1.
+           id="tspan2637">1.
 </tspan></tspan><tspan
          x="84"
          y="56.286887"
-         id="tspan3995"><tspan
+         id="tspan2643"><tspan
            style="font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, '"
-           id="tspan3993">2.
+           id="tspan2641">2.
 </tspan></tspan><tspan
          x="84"
          y="72.30466"
-         id="tspan3999"><tspan
+         id="tspan2647"><tspan
            style="font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, '"
-           id="tspan3997">3.</tspan></tspan></text>
+           id="tspan2645">3.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text938-1-0-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9346px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-2-6)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9346px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect940-2-2-6);display:inline"
        transform="matrix(0.62244957,0,0,0.62244957,155.58367,57.996625)"
        inkscape:transform-center-y="-1.5387352"><tspan
          x="6.6875"
          y="14.702664"
-         id="tspan4001">Long term goal</tspan></text>
+         id="tspan2649">Long term goal</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;stroke-width:0.191189"
@@ -892,28 +894,6 @@
        d="M 70,0 V 114"
        id="path1352-4"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       id="text1449-7"
-       style="font-size:10.5833px;line-height:1.3;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1451-8);display:inline"
-       transform="matrix(0.84715228,0,0,0.84715228,75.833464,1.2583217)"><tspan
-         x="84"
-         y="40.900798"
-         id="tspan4005"><tspan
-           style="shape-inside:url(#rect1451-8);display:inline"
-           id="tspan4003">￮
-</tspan></tspan><tspan
-         x="84"
-         y="55.931564"
-         id="tspan4009"><tspan
-           style="shape-inside:url(#rect1451-8);display:inline"
-           id="tspan4007">￮
-</tspan></tspan><tspan
-         x="84"
-         y="70.962329"
-         id="tspan4013"><tspan
-           style="shape-inside:url(#rect1451-8);display:inline"
-           id="tspan4011">￮</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:'Droid Sans Mono Dotted for Powerline';-inkscape-font-specification:'Droid Sans Mono Dotted for Powerline';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.191189"
@@ -1059,7 +1039,7 @@
        transform="matrix(0.66475176,0,0,0.66475176,141.33531,266.42816)"><tspan
          x="6.6875"
          y="17.135377"
-         id="tspan4015">Daily score:         / 30</tspan></text>
+         id="tspan2651">Daily score:         / 30</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:0.5;stroke:none;stroke-width:0.165612;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.881552;stop-color:#000000"
        id="rect4202"
@@ -1280,5 +1260,53 @@
          y="260.31815"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.34406px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:center;text-anchor:middle;stroke-width:0.196189"
          id="tspan3395-6-3">Penrose</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.361449;stroke-linecap:butt;stroke-dasharray:none"
+       d="m 17.514238,172.54094 c 4.614808,-0.0354 -2.464966,17.24671 1.426583,17.24671 -3.889095,-0.006 2.457289,17.46334 -1.443044,17.41401"
+       id="path575"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79345px;font-family:'CMU Classical';-inkscape-font-specification:'CMU Classical';fill:none;stroke:#000000;stroke-width:0.0825302;stroke-linecap:round;stroke-dasharray:none"
+       x="22.391552"
+       y="178.02124"
+       id="text1395"><tspan
+         sodipodi:role="line"
+         id="tspan1393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical';-inkscape-font-specification:'CMU Classical';fill:#000000;stroke-width:0.0825302"
+         x="22.391552"
+         y="178.02124">Block 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79345px;font-family:'CMU Classical';-inkscape-font-specification:'CMU Classical';display:inline;fill:none;stroke:#000000;stroke-width:0.0825302;stroke-linecap:round;stroke-dasharray:none"
+       x="91.976646"
+       y="155.00911"
+       id="text1395-1"><tspan
+         sodipodi:role="line"
+         id="tspan1393-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical';-inkscape-font-specification:'CMU Classical';fill:#000000;stroke-width:0.0825302"
+         x="91.976646"
+         y="155.00911">Block 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79345px;font-family:'CMU Classical';-inkscape-font-specification:'CMU Classical';display:inline;fill:none;stroke:#000000;stroke-width:0.0825302;stroke-linecap:round;stroke-dasharray:none"
+       x="162.45366"
+       y="155.00548"
+       id="text1395-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1393-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical';-inkscape-font-specification:'CMU Classical';fill:#000000;stroke-width:0.0825302"
+         x="162.45366"
+         y="155.00548">Block 3</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.361449;stroke-linecap:butt;stroke-dasharray:none"
+       d="m 87.514944,149.51196 c 4.614808,-0.0354 -2.464966,17.24671 1.426583,17.24671 -3.889095,-0.006 2.457289,17.46334 -1.443044,17.41401"
+       id="path575-5"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.361449;stroke-linecap:butt;stroke-dasharray:none"
+       d="m 157.61567,149.40527 c 4.61481,-0.0354 -2.46497,17.24671 1.42658,17.24671 -3.88909,-0.006 2.45729,17.46334 -1.44304,17.41401"
+       id="path575-6"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
