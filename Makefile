@@ -12,7 +12,9 @@ $(OBJ): %.png : %.svg
 	$(CONVERT) $(basename $@).svg -o $@
 
 upload: $(OBJ)
-	#scp ${OPTIONS} *.svg *.png templates.json $(HOST):/usr/share/remarkable/templates/
-	scp ${OPTIONS} *.svg *.png $(HOST):/usr/share/remarkable/templates/
-	ssh ${OPTIONS} $(HOST) systemctl restart xochitl
-	ssh ${OPTIONS} $(HOST) systemctl restart xochitl
+	@scp ${OPTIONS} $(HOST):/usr/share/remarkable/templates/templates.json templates.json 
+	@jq '.templates += input' templates.json custom_templates.json > .tmp.json && mv .tmp.json templates.json
+	scp ${OPTIONS} *.png templates.json $(HOST):/usr/share/remarkable/templates/
+	@rm templates.json
+	@ssh ${OPTIONS} $(HOST) systemctl restart xochitl
+	@ssh ${OPTIONS} $(HOST) systemctl restart xochitl
